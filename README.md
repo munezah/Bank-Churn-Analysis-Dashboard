@@ -17,6 +17,8 @@ The dataset used in this project includes details such as:
   - `SatisfactionScoreLevel`  
   - `IsHighValueCustomer`  
 
+**[Download Dataset From Source (Excel File)](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data)**
+
 ---
 
 ## Key Performance Indicators (KPIs) Tracked  
