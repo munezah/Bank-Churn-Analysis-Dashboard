@@ -86,15 +86,15 @@ This dashboard helps answer critical business questions such as:
 
 ## Dashboard View  
 
-![Dashboard](https://github.com/user-attachments/assets/c3d7a0ea-a802-4bcc-8b7b-d8c8513826a6.png](https://github.com/munezah/Bank-Churn-Analysis-Dashboard/blob/main/bank%20dashboard%20Image.png)  
+![Dashboard](https://github.com/munezah/Bank-Churn-Analysis-Dashboard/blob/main/bank%20dashboard%20Image.png)  
 
 ---
 
 ## Files Included  
 
-- `Bank_Churn_Dashboard.xlsx` – Final interactive dashboard  
-- `CustomerDataset.xlsx` – Raw + derived dataset  
-- `Dashboard.png` – Final dashboard image  
+- `BbankDashboard.xlsx` – Final interactive dashboard  
+- `Customer-Churn-Records dataset.csv` – Raw + derived dataset  
+- `bank dashboard Image.png` – Final dashboard image  
 - `README.md` – Project documentation (this file)  
 
 ---
