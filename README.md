@@ -112,4 +112,4 @@ For feedback, collaboration, or questions:
 
 📞 +92-331-3317586  
 
-🌐 [Portfolio Website](https://munezahwaqar.info)  
+🌐 [Portfolio Website](https://munezahwaqar.com/)  
